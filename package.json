@@ -1,0 +1,22 @@
+{
+  "name": "server_d",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahees/server_d.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahees/server_d/issues"
+  },
+  "homepage": "https://github.com/ahees/server_d#readme",
+  "devDependencies": {
+    "generate-docx": "^2.1.1"
+  }
+}
